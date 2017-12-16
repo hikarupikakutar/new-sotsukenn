@@ -211,12 +211,12 @@
 
   <ItemGroup>
     <ProjectReference Include="C:\Users\hige\Documents\github\new-sotsuken\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{edce3c1a-8281-41fb-b0d1-ab03aecce21e}</Project>
+      <Project>{db0a751c-ac0d-461a-bbc6-1d8aa6c42cfe}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="C:\Users\hige\Documents\github\new-sotsuken\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{de957d0d-af20-4f6d-ad4b-9bdc2ed34851}</Project>
+      <Project>{32aedd0a-38f6-4324-a192-430442d39fe5}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
       <Private>False</Private>
     </ProjectReference>
