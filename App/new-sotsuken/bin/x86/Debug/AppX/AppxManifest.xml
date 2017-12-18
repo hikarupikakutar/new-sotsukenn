@@ -8,7 +8,7 @@
     パッケージ マニフェスト ファイルの詳細については、http://go.microsoft.com/fwlink/?LinkID=241727 を参照してください
   -->
   <Identity Name="new-sotsuken" Publisher="CN=DefaultCompany" Version="1.0.0.0" ProcessorArchitecture="x86" />
-  <mp:PhoneIdentity PhoneProductId="ed6b7b56-7ca7-4796-8205-57f95501378c" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <mp:PhoneIdentity PhoneProductId="39e0ee82-d4bb-419f-b784-de9d998a7567" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>new-sotsuken</DisplayName>
     <PublisherDisplayName>DefaultCompany</PublisherDisplayName>

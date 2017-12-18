@@ -11,7 +11,7 @@ GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24
 new-sotsuken\App.cs: 15A6B1CBA8716598C0ACF4CEE8E5C3C1
 new-sotsuken\new-sotsuken.csproj: modified
 new-sotsuken\new-sotsuken.csproj.user: modified
-new-sotsuken\Package.appxmanifest: 97B0136005382F49EFA706882ED6346B
+new-sotsuken\Package.appxmanifest: 0FFA6AC412D0E8E8280F7007171DD06A
 new-sotsuken\project.json: 1D02BC64BAC0D041019673A1C4C51737
 new-sotsuken\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
 new-sotsuken\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
@@ -26,5 +26,12 @@ new-sotsuken\bin\x86\Debug\AppX\Assets\Square44x44Logo.targetsize-24_altform-unp
 new-sotsuken\bin\x86\Debug\AppX\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
 new-sotsuken\bin\x86\Debug\AppX\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
 new-sotsuken\bin\x86\Debug\AppX\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
+new-sotsuken\bin\x86\Release\AppX\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
+new-sotsuken\bin\x86\Release\AppX\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
+new-sotsuken\bin\x86\Release\AppX\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
+new-sotsuken\bin\x86\Release\AppX\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
+new-sotsuken\bin\x86\Release\AppX\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
+new-sotsuken\bin\x86\Release\AppX\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
+new-sotsuken\bin\x86\Release\AppX\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
 new-sotsuken\Properties\AssemblyInfo.cs: 4FFAC71FE088EE89A54C3831163DF900
 new-sotsuken\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826

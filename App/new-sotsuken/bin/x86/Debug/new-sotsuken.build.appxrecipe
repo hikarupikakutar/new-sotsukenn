@@ -8,7 +8,7 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>ed6b7b56-7ca7-4796-8205-57f95501378c</PackageIdentityName>
+    <PackageIdentityName>39e0ee82-d4bb-419f-b784-de9d998a7567</PackageIdentityName>
     <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>

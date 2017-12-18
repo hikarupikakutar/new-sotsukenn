@@ -8,7 +8,7 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|x86</SolutionConfiguration>
     <PackageArchitecture>x86</PackageArchitecture>
-    <PackageIdentityName>ed6b7b56-7ca7-4796-8205-57f95501378c</PackageIdentityName>
+    <PackageIdentityName>39e0ee82-d4bb-419f-b784-de9d998a7567</PackageIdentityName>
     <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>CB41421C1D25A7CAF86ADE235638B1BD2894B2B0A210BAFD9656B8F16EF322AB</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>90A9E0C1D0E9EADE510165A6804B710B91FBF877B1A3C7A8C6F0C6B8B690B64F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>new-sotsuken_1.0.0.0_x86__pzq3xp76mxafg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>new-sotsuken_pzq3xp76mxafg!App</RegisteredUserModeAppID>
     <RegisteredPackageID>new-sotsuken</RegisteredPackageID>
@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-16T07:52:17.351</Modified>
+      <Modified>2017-12-18T03:11:01.690</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\bin\x86\Debug\new-sotsuken.exe">
       <PackagePath>entrypoint\new-sotsuken.exe</PackagePath>
-      <Modified>2017-12-16T07:52:04.437</Modified>
+      <Modified>2017-12-18T03:10:48.125</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -501,7 +501,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2017-12-16T07:48:16.650</Modified>
+      <Modified>2017-12-18T03:08:35.230</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -543,11 +543,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2017-12-16T07:47:57.551</Modified>
+      <Modified>2017-12-18T03:08:19.969</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2017-12-16T07:47:56.744</Modified>
+      <Modified>2017-12-18T03:08:19.178</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
@@ -555,31 +555,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2017-12-16T07:47:58.093</Modified>
+      <Modified>2017-12-18T03:08:20.553</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2017-12-16T07:47:57.682</Modified>
+      <Modified>2017-12-18T03:08:20.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2017-12-16T07:47:57.805</Modified>
+      <Modified>2017-12-18T03:08:20.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2017-12-16T07:47:56.739</Modified>
+      <Modified>2017-12-18T03:08:19.173</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2017-12-16T07:47:57.802</Modified>
+      <Modified>2017-12-18T03:08:20.287</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2017-12-16T07:48:16.448</Modified>
+      <Modified>2017-12-18T03:08:35.135</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2017-12-16T07:48:16.452</Modified>
+      <Modified>2017-12-18T03:08:35.137</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.15063.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -592,47 +592,47 @@
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-12-16T07:52:05.070</Modified>
+      <Modified>2017-12-18T03:10:48.746</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2017-12-16T07:52:10.424</Modified>
+      <Modified>2017-12-18T03:10:54.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\UnityEngine.Analytics.dll">
       <PackagePath>UnityEngine.Analytics.dll</PackagePath>
-      <Modified>2017-12-16T07:52:10.462</Modified>
+      <Modified>2017-12-18T03:10:54.207</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2017-12-16T07:52:10.541</Modified>
+      <Modified>2017-12-18T03:10:54.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2017-12-16T07:52:10.640</Modified>
+      <Modified>2017-12-18T03:10:54.377</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2017-12-16T07:52:10.676</Modified>
+      <Modified>2017-12-18T03:10:54.405</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2017-12-16T07:52:10.754</Modified>
+      <Modified>2017-12-18T03:10:54.480</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\UnityEngine.VR.dll">
       <PackagePath>UnityEngine.VR.dll</PackagePath>
-      <Modified>2017-12-16T07:52:10.769</Modified>
+      <Modified>2017-12-18T03:10:54.498</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2017-12-16T07:52:09.892</Modified>
+      <Modified>2017-12-18T03:10:53.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\Assembly-CSharp-firstpass.dll">
       <PackagePath>Assembly-CSharp-firstpass.dll</PackagePath>
-      <Modified>2017-12-16T07:52:09.929</Modified>
+      <Modified>2017-12-18T03:10:53.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\hige\Documents\github\new-sotsuken\App\new-sotsuken\bin\x86\Debug\Core\new-sotsuken.exe">
       <PackagePath>new-sotsuken.exe</PackagePath>
-      <Modified>2017-12-16T07:52:17.344</Modified>
+      <Modified>2017-12-18T03:11:01.684</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
