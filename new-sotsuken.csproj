@@ -82,6 +82,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\BodyLocked.cs" />
+    <Compile Include="Assets\FlushController.cs" />
     <Compile Include="Assets\HoloToolkit-SpatialMapping-230\Input\Scripts\BasicCursor.cs" />
     <Compile Include="Assets\HoloToolkit-SpatialMapping-230\Input\Scripts\GazeManager.cs" />
     <Compile Include="Assets\HoloToolkit-SpatialMapping-230\Input\Scripts\GestureManager.cs" />
@@ -105,6 +106,8 @@
     <Compile Include="Assets\Scripts\SolarSystem\RotateAsteroids.cs" />
     <Compile Include="Assets\Scripts\SolarSystem\SunScript.cs" />
     <Compile Include="Assets\Scripts\SpaceCollectionManager.cs" />
+    <Compile Include="Assets\Singleton.cs" />
+    <Compile Include="Assets\ancher2.cs" />
     <Compile Include="Assets\kunren.cs" />
   </ItemGroup>
   <ItemGroup>

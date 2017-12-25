@@ -9,7 +9,7 @@ public class PersistoMatic : MonoBehaviour
 
     WorldAnchorStore anchorStore;
 
-    bool Placing = false;
+    public static bool Placing = false;
     // Use this for initialization
     void Start()
     {
